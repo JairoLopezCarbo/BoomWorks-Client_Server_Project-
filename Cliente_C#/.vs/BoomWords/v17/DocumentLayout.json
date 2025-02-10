@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jlope\\Documents\\Apuntes\\Q5\\SO\\BoomWords_11.01.2025\\BoomWords_Files\\BoomWords\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D1D03BD-D5FE-4ABE-90B9-1AB8D7FF8FBC}|BoomWords\\BoomWords.csproj|c:\\users\\jlope\\documents\\apuntes\\q5\\so\\boomwords_11.01.2025\\boomwords_files\\boomwords\\boomwords\\launcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1D1D03BD-D5FE-4ABE-90B9-1AB8D7FF8FBC}|BoomWords\\BoomWords.csproj|solutionrelative:boomwords\\launcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D1D03BD-D5FE-4ABE-90B9-1AB8D7FF8FBC}|BoomWords\\BoomWords.csproj|C:\\Users\\jlope\\Documents\\Apuntes\\Q5\\SO\\BoomWords_11.01.2025\\BoomWords_Files\\BoomWords\\boomwords\\userlobby.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D1D03BD-D5FE-4ABE-90B9-1AB8D7FF8FBC}|BoomWords\\BoomWords.csproj|solutionrelative:boomwords\\userlobby.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D1D03BD-D5FE-4ABE-90B9-1AB8D7FF8FBC}|BoomWords\\BoomWords.csproj|C:\\Users\\jlope\\Documents\\Apuntes\\Q5\\SO\\BoomWords_11.01.2025\\BoomWords_Files\\BoomWords\\boomwords\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1D1D03BD-D5FE-4ABE-90B9-1AB8D7FF8FBC}|BoomWords\\BoomWords.csproj|solutionrelative:boomwords\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D1D03BD-D5FE-4ABE-90B9-1AB8D7FF8FBC}|BoomWords\\BoomWords.csproj|C:\\Users\\jlope\\Documents\\Apuntes\\Q5\\SO\\BoomWords_11.01.2025\\BoomWords_Files\\BoomWords\\boomwords\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D1D03BD-D5FE-4ABE-90B9-1AB8D7FF8FBC}|BoomWords\\BoomWords.csproj|solutionrelative:boomwords\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D1D03BD-D5FE-4ABE-90B9-1AB8D7FF8FBC}|BoomWords\\BoomWords.csproj|C:\\Users\\jlope\\Documents\\Apuntes\\Q5\\SO\\BoomWords_11.01.2025\\BoomWords_Files\\BoomWords\\boomwords\\launcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D1D03BD-D5FE-4ABE-90B9-1AB8D7FF8FBC}|BoomWords\\BoomWords.csproj|solutionrelative:boomwords\\launcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D1D03BD-D5FE-4ABE-90B9-1AB8D7FF8FBC}|BoomWords\\BoomWords.csproj|C:\\Users\\jlope\\Documents\\Apuntes\\Q5\\SO\\BoomWords_11.01.2025\\BoomWords_Files\\BoomWords\\boomwords\\userlobby.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1D1D03BD-D5FE-4ABE-90B9-1AB8D7FF8FBC}|BoomWords\\BoomWords.csproj|solutionrelative:boomwords\\userlobby.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Launcher.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\jlope\\Documents\\Apuntes\\Q5\\SO\\BoomWords_11.01.2025\\BoomWords_Files\\BoomWords\\BoomWords\\Launcher.cs",
+              "RelativeDocumentMoniker": "BoomWords\\Launcher.cs",
+              "ToolTip": "C:\\Users\\jlope\\Documents\\Apuntes\\Q5\\SO\\BoomWords_11.01.2025\\BoomWords_Files\\BoomWords\\BoomWords\\Launcher.cs [Design]",
+              "RelativeToolTip": "BoomWords\\Launcher.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T23:05:24.134Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserLobby.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\jlope\\Documents\\Apuntes\\Q5\\SO\\BoomWords_11.01.2025\\BoomWords_Files\\BoomWords\\BoomWords\\UserLobby.cs",
+              "RelativeDocumentMoniker": "BoomWords\\UserLobby.cs",
+              "ToolTip": "C:\\Users\\jlope\\Documents\\Apuntes\\Q5\\SO\\BoomWords_11.01.2025\\BoomWords_Files\\BoomWords\\BoomWords\\UserLobby.cs [Design]",
+              "RelativeToolTip": "BoomWords\\UserLobby.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T23:05:23.344Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Game.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\jlope\\Documents\\Apuntes\\Q5\\SO\\BoomWords_11.01.2025\\BoomWords_Files\\BoomWords\\BoomWords\\Game.cs",
+              "RelativeDocumentMoniker": "BoomWords\\Game.cs",
+              "ToolTip": "C:\\Users\\jlope\\Documents\\Apuntes\\Q5\\SO\\BoomWords_11.01.2025\\BoomWords_Files\\BoomWords\\BoomWords\\Game.cs [Design]",
+              "RelativeToolTip": "BoomWords\\Game.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T23:05:25.445Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Launcher.cs",
+              "DocumentMoniker": "C:\\Users\\jlope\\Documents\\Apuntes\\Q5\\SO\\BoomWords_11.01.2025\\BoomWords_Files\\BoomWords\\BoomWords\\Launcher.cs",
+              "RelativeDocumentMoniker": "BoomWords\\Launcher.cs",
+              "ToolTip": "C:\\Users\\jlope\\Documents\\Apuntes\\Q5\\SO\\BoomWords_11.01.2025\\BoomWords_Files\\BoomWords\\BoomWords\\Launcher.cs",
+              "RelativeToolTip": "BoomWords\\Launcher.cs",
+              "ViewState": "AgIAABIBAAAAAAAAAAAtwCUBAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T22:59:38.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserLobby.cs",
+              "DocumentMoniker": "C:\\Users\\jlope\\Documents\\Apuntes\\Q5\\SO\\BoomWords_11.01.2025\\BoomWords_Files\\BoomWords\\BoomWords\\UserLobby.cs",
+              "RelativeDocumentMoniker": "BoomWords\\UserLobby.cs",
+              "ToolTip": "C:\\Users\\jlope\\Documents\\Apuntes\\Q5\\SO\\BoomWords_11.01.2025\\BoomWords_Files\\BoomWords\\BoomWords\\UserLobby.cs",
+              "RelativeToolTip": "BoomWords\\UserLobby.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAEkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T23:05:19.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\jlope\\Documents\\Apuntes\\Q5\\SO\\BoomWords_11.01.2025\\BoomWords_Files\\BoomWords\\BoomWords\\Game.cs",
+              "RelativeDocumentMoniker": "BoomWords\\Game.cs",
+              "ToolTip": "C:\\Users\\jlope\\Documents\\Apuntes\\Q5\\SO\\BoomWords_11.01.2025\\BoomWords_Files\\BoomWords\\BoomWords\\Game.cs",
+              "RelativeToolTip": "BoomWords\\Game.cs",
+              "ViewState": "AgIAAK4CAAAAAAAAAAAtwMYCAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T07:43:52.207Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 65,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
